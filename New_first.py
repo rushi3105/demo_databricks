@@ -8,11 +8,11 @@ print ( "Hello! Rushi" )
 
 # COMMAND ----------
 
-# MAGIC %run "/Workspace/Repos/rushibam1911@outlook.com/demo_databricks/New_second"
+
 
 # COMMAND ----------
 
-print(tmp)
+
 
 # COMMAND ----------
 
